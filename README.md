@@ -1,2 +1,2 @@
 # curso_talento
-Material del Crso Talento Tech
+Material del Curso Talento Tech
